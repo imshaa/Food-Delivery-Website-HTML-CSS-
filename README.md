@@ -33,5 +33,5 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Live Demo
-Check out the live version of the project ((https://imshaa.github.io/Amazon-Website-Clone/))!
+Check out the live version of the project ((https://imshaa.github.io/Food-Delivery-Website-HTML-CSS-/))!
 
