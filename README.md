@@ -10,7 +10,7 @@ This is a simple website template for an online food delivery service called Onl
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Live Demo](#live demo)
+- [Live Demo](#livedemo)
 ## Introduction
 Onlinefood.com is an online platform that offers food delivery services in Pakistan. This website template provides a basic structure for showcasing various services and features of the platform.
 
